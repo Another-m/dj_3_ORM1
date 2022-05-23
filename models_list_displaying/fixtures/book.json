@@ -1,0 +1,128 @@
+[
+{
+  "model": "books.book",
+  "pk": 1,
+  "fields": {
+    "name": "Война и мир",
+    "author": "Ф.Д. Достоевский",
+    "pub_date": "2018-02-27"
+  }
+},
+{
+  "model": "books.book",
+  "pk": 2,
+  "fields": {
+    "name": "1984",
+    "author": "Джордж Оруэл",
+    "pub_date": "2016-12-06"
+  }
+},
+{
+  "model": "books.book",
+  "pk": 3,
+  "fields": {
+    "name": "Сияние",
+    "author": "Стивен Кинг",
+    "pub_date": "2018-09-10"
+  }
+},
+{
+  "model": "books.book",
+  "pk": 4,
+  "fields": {
+    "name": "В память о прошлом земли",
+    "author": "Лю Цысинь",
+    "pub_date": "2018-09-21"
+  }
+},
+{
+  "model": "books.book",
+  "pk": 5,
+  "fields": {
+    "name": "Злой король",
+    "author": "Холли Блэк",
+    "pub_date": "2018-09-10"
+  }
+},
+{
+  "model": "books.book",
+  "pk": 6,
+  "fields": {
+    "name": "Стигмалион",
+    "author": "Кристина Старк",
+    "pub_date": "2018-09-21"
+  }
+},
+{
+  "model": "books.book",
+  "pk": 7,
+  "fields": {
+    "name": "Всё та же я",
+    "author": "Мойес Джоджо",
+    "pub_date": "2018-08-11"
+  }
+},
+{
+  "model": "books.book",
+  "pk": 8,
+  "fields": {
+    "name": "Тобол. Мало избранных",
+    "author": "Алексей Иванов",
+    "pub_date": "2018-10-11"
+  }
+},
+{
+  "model": "books.book",
+  "pk": 9,
+  "fields": {
+    "name": "С жизнью наедине",
+    "author": "Кристин Ханна",
+    "pub_date": "2018-10-11"
+  }
+},
+{
+  "model": "books.book",
+  "pk": 10,
+  "fields": {
+    "name": "Смертельная белизна",
+    "author": "Гэлбрейт Роберт",
+    "pub_date": "2022-03-14"
+  }
+},
+{
+  "model": "books.book",
+  "pk": 11,
+  "fields": {
+    "name": "Жестокий принц",
+    "author": "Холли Блэк",
+    "pub_date": "2018-08-11"
+  }
+},
+{
+  "model": "books.book",
+  "pk": 12,
+  "fields": {
+    "name": "В метре друг от друга",
+    "author": "Рейчел Липпинкотт, Микки Дотри, Тобиас Иаконис",
+    "pub_date": "2018-09-10"
+  }
+},
+{
+  "model": "books.book",
+  "pk": 13,
+  "fields": {
+    "name": "Мертвый ноль",
+    "author": "Фрай Макс",
+    "pub_date": "2018-09-21"
+  }
+},
+{
+  "model": "books.book",
+  "pk": 14,
+  "fields": {
+    "name": "Пока течет река",
+    "author": "Сеттерфилд Диана",
+    "pub_date": "2018-08-11"
+  }
+}
+]
